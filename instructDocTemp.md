@@ -23,6 +23,6 @@ Each section should contain step-by-step instructions and/or a checklist of how 
 
 The reference area should be used to add any additional information or instructions on how to deal with more specific circumstances, and/or to reference any external sources of information.
 
-(1) **Section Title: Subtitle** - If the user's name contains a hyphen (-), do not include it in creating the account name.
+(1) **Section Title: Subtitle** - Do not include hyphens (-) in user account names.
 
 "OpenLDAP Server: User and Group Management." Ubuntu, 8 Nov. 2016, [https://help.ubuntu.com/lts/serverguide/openldap-server.html](https://help.ubuntu.com/lts/serverguide/openldap-server.html).
