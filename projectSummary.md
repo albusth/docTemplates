@@ -26,7 +26,7 @@
 
 ### Assumptions:
 * List of assumtions outside the scope of the project.
-* Example: Human resources will background check all project staff
+* Example: Contrator will provide tools and materials
 * [insert]
 
 ## Project Scope
@@ -46,12 +46,12 @@
 * [insert]
 * [insert]
 
-## Estimated Costs
-|ITEM             |COST     |NOTES         |
+## Tasks and Estimated Costs
+|TASK             |EST. COST|NOTES         |
 |-----------------|---------|--------------|
 |Ex: New Furniture|$1,000.00|Must fit space|
-|Ex: Labor Costs  |$1,253.00|              |
-|**Project Total:**|**$2,253.00**|        <| 
+|Ex: Repair Roof  |$1,253.00|              |
+|**Project Total:**|**$2,253.00**|        <|
 
 ## Closing Checklist
 
