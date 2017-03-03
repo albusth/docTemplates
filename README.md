@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/lotcom/docTemplates/master/LICENSE)
+
 # Document Templates
 Simple document templates mainly written in Markdown or reStructuredText for use in project management and documentation.
 
